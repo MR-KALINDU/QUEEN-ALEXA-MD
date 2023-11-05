@@ -1,5 +1,5 @@
 {
-"name": "queen-alexa-md",    
+"name": "queen-alexa",    
 "version": "1.0.0",
 "scripts": {
 "start": "pm2 start index.js --deep-monitoring --attach --name queen-alexa",
