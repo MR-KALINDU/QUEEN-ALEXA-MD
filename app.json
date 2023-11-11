@@ -45,7 +45,7 @@
      "FOOTER": {
       "description": "Put YOUR FOOTER MESSAGE here.",
       "required": true
-    },
+    }
 },
 
      "buildpacks": [
