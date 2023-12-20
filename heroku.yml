@@ -1,0 +1,5 @@
+build:
+  docker:
+      worker: /index.js
+run:
+   worker: npm start
