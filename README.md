@@ -11,3 +11,14 @@
 9. ```FOOTER```***Youre name***
 10. ```LOGO```***Youre logo url***
 
+
+
+</p>
+    <br>
+    <h4 align="center">Deploy on Heroku</h4>
+    <p align="center">
+      <a href="https://heroku.com/deploy?template=https://github.com/MR-KALINDU/QUEEN-ALEXA-MD">
+        <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku">
+      </a>
+    </p>
+    <br>
